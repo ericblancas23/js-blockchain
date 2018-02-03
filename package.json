@@ -1,0 +1,18 @@
+{
+  "name": "js-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain mini project to have a better understanding of blockchains,     development of blockchains and how they flow.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js-blockchain"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
